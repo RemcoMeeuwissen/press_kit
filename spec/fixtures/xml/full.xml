@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+
+<game>
+    <title>Title</title>
+    <website>http://www.website.com/</website>
+    <based-in>City, Country</based-in>
+    <founding-date>November 1, 2019</founding-date>
+    <press-contact>press-contact@example.com</press-contact>
+    <socials>
+        <social>
+            <name>twitter.com</name>
+            <link>http://www.twitter.com/</link>
+        </social>
+        <social>
+            <name>facebook.com</name>
+            <link>http://www.facebook.com/</link>
+        </social>
+    </socials>
+    <address>
+        <line>Line One</line>
+        <line>Line Two</line>
+    </address>
+    <phone>555-2368</phone>
+    <description>A full-featured XML file</description>
+    <histories>
+        <history>
+            <header>Some history</header>
+            <text>A nice story</text>
+        </history>
+        <history>
+            <header>More history</header>
+            <text>A nice story</text>
+        </history>
+    </histories>
+    <trailers>
+        <trailer>
+            <name>Trailer name</name>
+            <youtube>P2rtqVma_Ww</youtube>
+            <vimeo>166807261</vimeo>
+        </trailer>
+        <trailer>
+            <name>Trailer name</name>
+            <mp4>trailer.mp4</mp4>
+            <mov>trailer.mov</mov>
+        </trailer>
+    </trailers>
+    <awards>
+        <award>
+            <description>First Award</description>
+            <info>Place, Date</info>
+        </award>
+        <award>
+            <description>Second Award</description>
+            <info>Name, Date</info>
+        </award>
+    </awards>
+    <quotes>
+        <quote>
+            <description>First quote</description>
+            <name>Name</name>
+            <website>Website name</website>
+            <link>http://www.example.com/</link>
+        </quote>
+        <quote>
+            <description>Second quote</description>
+            <name>Name</name>
+            <website>Website name</website>
+            <link>http://example.com/</link>
+        </quote>
+    </quotes>
+    <additionals>
+        <additional>
+            <title>Additional link</title>
+            <description>It's a website</description>
+            <link>http://example.com/</link>
+        </additional>
+    </additionals>
+    <credits>
+        <credit>
+            <person>Person One</person>
+            <role>Programmer</role>
+        </credit>
+        <credit>
+            <person>Person Two</person>
+            <role>Artist</role>
+            <website>http://www.example.com/</website>
+        </credit>
+    </credits>
+    <contacts>
+        <contact>
+            <name>Email</name>
+            <mail>person@example.com</mail>
+        </contact>
+        <contact>
+            <name>Twitter</name>
+            <link>http://twitter.com/</link>
+        </contact>
+    </contacts>
+    <analytics>UA-000000-1</analytics>
+</game>
