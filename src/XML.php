@@ -7,8 +7,6 @@ namespace PressKit;
 
 /**
  * Parses XML files for press_kit and returns the data in a array
- *
- * @todo Refactor using collections
  */
 class XML
 {
